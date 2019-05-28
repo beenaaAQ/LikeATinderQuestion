@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Like_A_Tinder_Question_App</string>
+    <string name="app_name">LikeATinder</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>

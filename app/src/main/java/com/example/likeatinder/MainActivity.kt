@@ -1,8 +1,8 @@
-package com.example.like_a_tinder_question_app
+package com.example.likeatinder
 
 import android.os.Bundle
-import com.google.android.material.bottomnavigation.BottomNavigationView
-import androidx.appcompat.app.AppCompatActivity
+import android.support.design.widget.BottomNavigationView
+import android.support.v7.app.AppCompatActivity
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {

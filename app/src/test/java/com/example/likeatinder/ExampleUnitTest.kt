@@ -1,4 +1,4 @@
-package com.example.like_a_tinder_question_app
+package com.example.likeatinder
 
 import org.junit.Test
 
